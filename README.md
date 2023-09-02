@@ -35,8 +35,3 @@
 <div align="left">
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/nixs-dev/nixs-dev/output/snake.svg" alt="Snake animation" />
-
-###
